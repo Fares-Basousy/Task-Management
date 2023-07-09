@@ -19,7 +19,7 @@ $ npm run start
 $ npm run start:dev
 
 # activade database
-$ mongod ./path/to/database
+$ mongod --dbpath ./path/to/database
 
 
 ```
